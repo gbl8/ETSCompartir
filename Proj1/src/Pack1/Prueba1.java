@@ -6,5 +6,10 @@ public class Prueba1 {
 	
 
 	}
+	// metodo de prueba leti
+	public static int metododeprueba(){
+		
+		return -1;
+	}
 
 }
